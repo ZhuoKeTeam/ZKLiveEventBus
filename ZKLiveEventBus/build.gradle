@@ -26,4 +26,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation deps.kotlin_stdlib8
+
+    api 'com.jeremyliao:live-event-bus:1.4.4'
 }
