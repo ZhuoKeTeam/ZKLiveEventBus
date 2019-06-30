@@ -1,5 +1,7 @@
 # ZKLiveEventBus
-ZKLiveEventBus
+
+[![](https://jitpack.io/v/ZhuoKeTeam/ZKLiveEventBus.svg)](https://jitpack.io/#ZhuoKeTeam/ZKLiveEventBus)
+
 
 ## 优先在 Application 注册
 
